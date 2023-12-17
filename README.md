@@ -1,6 +1,8 @@
 # Hi, I'm Pablo 👋
-![Masterhead](https://media.giphy.com/media/cKL8JnaSDj6V2/giphy.gif)
+<img width="100%" src="https://media.giphy.com/media/cKL8JnaSDj6V2/giphy.gif"/>
+
 ## Languajes and Tools
+<p>
 <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/bun/black/f9f1e1/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/" />
@@ -31,6 +33,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/unity/black/cccccc" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/xcode/" />
+</p>
 
 ## Github Stats
 [![JosePeblo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosePeblo)](https://github.com/JosePeblo/github-readme-stats)
