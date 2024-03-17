@@ -4,6 +4,7 @@
 ## Languajes and Tools
 <p>
 <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/blender/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/bun/black/f9f1e1/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++/" />
@@ -25,6 +26,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/OpenGl/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pm2/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/44a2d9" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/swift/" />
